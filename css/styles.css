@@ -208,11 +208,11 @@ margin: 0 auto 48px;
 .advantage-list{
     display: flex;
     gap: 24px;
-    width: calc((100% - 72px) / 4);
+    /* width: calc((100% - 72px) / 4); */
 }
 
 .advantage-item{
-    /* width: calc((100% - 72px) / 4); */
+    width: calc((100% - 72px) / 4);
 }
 
 .advantage-subtitle {
