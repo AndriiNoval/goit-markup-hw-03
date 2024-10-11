@@ -267,7 +267,8 @@ margin-bottom: 8px;
 }
 
 .team-item {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
+    border-radius: 0 0 4px 4px;
 }
 
 
@@ -298,7 +299,7 @@ margin-bottom: 8px;
 /* -------------------------------------------------------------- */
 /* ---------------------------SECTION3 PORTFOLIO---------------- */
 
-.container-portfolio{
+.portfolio{
     padding-top: 120px;
     padding-bottom: 120px;
 }
@@ -364,7 +365,8 @@ margin-bottom: 8px;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;    
-    display: flex;
+    /* display: flex; */
+    display: inline-block;
     margin-bottom: 16px;
 }
 .footer-logo-white {
