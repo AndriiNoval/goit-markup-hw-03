@@ -47,15 +47,20 @@ img {
 /* ------------------------HEADER----------- */
 
 .header {
+    border-bottom: 1px solid #e7e9fc;
     
 }
 
 .header-container{
     display: flex;
+    padding-top: 24px;
+    padding-bottom: 24px;
+    
 }
 
 .header-navigation{
     display: flex;
+    align-items: center;
 }
 
 
@@ -68,8 +73,8 @@ img {
     text-transform: uppercase;
     color: #4d5ae5;
     margin-right: 76px;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    /* padding-top: 24px;
+    padding-bottom: 24px; */
 
 }
 
@@ -79,8 +84,8 @@ img {
 
 .header-menu-list{
     display: flex;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    /* padding-top: 24px;
+    padding-bottom: 24px; */
     gap: 40px;
     
 }
@@ -114,8 +119,8 @@ img {
 
 .header-contacts-list{
     display: flex;
-    padding-top: 24px;
-    padding-bottom: 24px;
+    /* padding-top: 24px;
+    padding-bottom: 24px; */
     gap: 40px;
    
 }
