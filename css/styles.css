@@ -61,8 +61,8 @@ img {
 .header-navigation{
     display: flex;
     align-items: center;
-    padding-left: 24px;
-    padding-right: 24px;
+    /* padding-left: 24px;
+    padding-right: 24px; */
 }
 
 
