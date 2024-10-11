@@ -55,12 +55,14 @@ img {
     display: flex;
     padding-left: 15px;
     padding-right: 15px;
-    
+   
 }
 
 .header-navigation{
     display: flex;
     align-items: center;
+    padding-left: 24px;
+    padding-right: 24px;
 }
 
 
@@ -113,6 +115,8 @@ img {
 .header-contacts {
     font-style: normal;
     margin-left: auto;
+    padding-top: 24px;
+    padding-bottom: 24px;
 }
 
 .header-contacts-list{
@@ -186,7 +190,7 @@ margin: 0 auto 48px;
     margin: 0 auto;
     border-radius: 4px;
     border: 0;
-    min-width: 169px
+    min-width: 169px;
     
 }
 .hero-btn:hover,
